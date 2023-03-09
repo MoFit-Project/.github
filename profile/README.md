@@ -61,6 +61,10 @@
 
   ![image](https://user-images.githubusercontent.com/105699532/223961203-4356d68d-dce5-49c5-9782-416a82edafd0.png)
 
+&#160;   
+### ✨포스터
+
+  ![MOFIT 포스터](https://user-images.githubusercontent.com/115714762/224066619-a706c290-f87b-4a16-9c68-333b238a7abf.jpg)
 
 
 &#160;   
