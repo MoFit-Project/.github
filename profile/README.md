@@ -155,4 +155,5 @@
   - message를 통한 Client 간 통신 구현
   - TensorFlow MoveNet 모델 생성
   - keyframe, requestAnimationFrame를 이용한 게임 구현
+  - 프론트 디버깅 
 
