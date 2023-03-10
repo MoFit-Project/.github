@@ -149,4 +149,7 @@
   - react와 nextjs를 활용해서 SPA 구현
 
 - 이도윤
+  - NextJs를 사용하여 웹 프론트 개발
   - 
+  - TensorFlow MoveNet 모델 생성
+
