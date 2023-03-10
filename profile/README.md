@@ -149,7 +149,10 @@
   - react와 nextjs를 활용해서 SPA 구현
 
 - 이도윤
-  - NextJs를 사용하여 웹 프론트 개발
-  - 
+  - NextJs를 이용한 웹 프론트 개발
+  - MoveNet, WebRTC, Phaser 통합 및 관리
+  - axios를 이용한 프론트 API 구현 및 비동기처리
+  - message를 통한 Client 간 통신 구현
   - TensorFlow MoveNet 모델 생성
+  - keyframe, requestAnimationFrame를 이용한 게임 구현
 
