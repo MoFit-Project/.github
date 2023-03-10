@@ -126,6 +126,10 @@
 - 안주홍
 
 - 김현우
+  - TensorFlow MoveNet 알고리즘 구현
+  - phaser 게임엔진을 이용한 게임 구현
+  - openvidu & MoveNet & Phaser 연계하여 개발
+  - NextJs를 이용한 웹페이지 개발
 
 - 제갈인하
   - Service Architecture 구축
