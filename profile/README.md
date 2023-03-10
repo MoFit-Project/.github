@@ -64,7 +64,7 @@
 &#160;   
 ### ✨포스터
 
-  ![MOFIT 포스터](https://user-images.githubusercontent.com/115714762/224066619-a706c290-f87b-4a16-9c68-333b238a7abf.jpg)
+  ![포스터-안주홍-모핏](https://user-images.githubusercontent.com/94699082/224369032-02e132da-1bdc-4ff7-ae16-5efa77afae94.jpg)
 
 
 &#160;   
