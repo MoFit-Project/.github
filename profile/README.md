@@ -57,7 +57,7 @@
   - 구현 후
   ![image](https://user-images.githubusercontent.com/105699532/223959903-7feca271-a128-4cb3-a584-9ba53f0f1470.png)  
 
-- PoseNet을 이용하여, 각각의 게임 및 준비&시작 상태를 모션인식을 통해 동작하도록 했습니다.
+- Movenet 모델을 이용하여, 각각의 게임 및 준비&시작 상태를 모션인식을 통해 동작하도록 했습니다.
 
   ![image](https://user-images.githubusercontent.com/105699532/223961203-4356d68d-dce5-49c5-9782-416a82edafd0.png)
 
