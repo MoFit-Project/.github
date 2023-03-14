@@ -59,7 +59,7 @@
 
 - Movenet 모델을 이용하여, 각각의 게임 및 준비&시작 상태를 모션인식을 통해 동작하도록 했습니다.
 
-  ![image](https://user-images.githubusercontent.com/105699532/223961203-4356d68d-dce5-49c5-9782-416a82edafd0.png)
+  ![image](https://user-images.githubusercontent.com/94699082/224929519-b379413c-2f84-4a2c-9f83-e9df40443bfc.png)
 
 &#160;   
 ### ✨포스터
@@ -123,8 +123,16 @@
 
 👩‍👩‍👧‍👧 팀원 역할
 ---
-- 안주홍
-
+- 안주홍(팀 리더)
+  - Next.js로 웹 프론트 개발
+  - Tensorflow js로 동작 인식을 위한 video 컴포넌트 구현
+  - Openvidu를 이용해 화상통화 기능 구현
+  - webRTC의 stream을 tensorflow에 피드로 제공하도록 구현
+  - movenet이 생산한 pose에서 운동 동작인식하는 메서드 구현
+  - 프론트에서 JWT를 이용해 authentication 구현
+  - axios를 이용해 서버와 통신 처리
+  - 유저간 소켓 통신 구현
+  
 - 김현우
   - TensorFlow MoveNet 알고리즘 구현
   - phaser 게임엔진을 이용한 게임 구현
